@@ -9,3 +9,16 @@
   <img src="HR_Analytics-Dashboard-Preview.jpg" alt="HR Analytics Dashboard Image">
 </a>
 
+## 📈 Key Insights from the Dashboard
+
+### 👥 Workforce Overview
+- Total Employees: 1,470  
+- Attrition Count: 237  
+- Attrition Rate: 16.12%  
+- Average Age: 37  
+- Average Salary: 6.5K  
+- Average Years at Company: 7  
+
+These KPIs provide a snapshot of the overall workforce.  
+They help identify the scale of attrition and employee demographics.  
+This section sets the context for deeper analysis.
