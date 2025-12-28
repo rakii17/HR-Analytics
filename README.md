@@ -23,6 +23,8 @@ These KPIs provide a snapshot of the overall workforce.
 They help identify the scale of attrition and employee demographics.  
 This section sets the context for deeper analysis.
 
+---
+
 ### 🎓 Attrition by Education
 Employees from **Life Sciences and Medical backgrounds** show the highest attrition.  
 Technical and Marketing backgrounds follow at moderate levels.  
