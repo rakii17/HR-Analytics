@@ -6,7 +6,7 @@
 - The dashboard converts raw HR data into meaningful and actionable insights.
 
 <a href="" target="_blank">
-  <img src="C:\Users\Administrator\Documents\GitHub\HR-Analytics\HR_Analytics-Dashboard-Preview.jpg" alt="HR Analytics Dashboard Image">
+  <img src="HR_Analytics-Dashboard-Preview.jpg" alt="HR Analytics Dashboard Image">
 </a>
 
 > <a href="https://lukeb.co/powerbi-project1" target="_blank">📊 View interactive dashboard here on the Power BI Service</a>
