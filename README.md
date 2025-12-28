@@ -11,6 +11,8 @@
 
 ## 📈 Key Insights from the Dashboard
 
+---
+
 ### 👥 Workforce Overview
 - Total Employees: 1,470  
 - Attrition Count: 237  
